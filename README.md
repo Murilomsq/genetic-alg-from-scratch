@@ -1,7 +1,7 @@
-# Estudo sobre algorítimo genético para a resolução de um problema de otimização
+# Creating a genetic algorithm to solve an optimization problem
 
-## O problema
-O problema de otimização consiste em descobrir, em um plano cartesiano com N pontos definidos no mesmo, o menor caminho que passa por cada ponto uma única vez começando e terminando em qualquer ponto.
+## The Problem
+Its basically Traveling Salesman Probem but the traveler does not have to come back, and he also starts wherever he wants
 
 ## A solução 
-Provavelmente, o problema não é tão complexo de modo que essa se faz a solução mais eficiente computacionalmente, porém, apesar de trivial, é o suficiente para que os conceitos de algorítimo genético sejam desenvolvidos de forma clara e precisa.
+The algorithm provided really trustworthy results in the tests, specially with the right parameters
